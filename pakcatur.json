@@ -1,0 +1,25 @@
+[
+    {
+        "signature_key": "9da621c339fe8096e5d12442b6fe3246",
+        "payment_type": "echanne",
+        "gross_amount": "980000",
+        "items": {
+            "item_id": "01026B",
+            "qty": 1,
+            "price": 180000,
+            "total": 180000
+        },
+        "0": {
+            "item_id": "02024L",
+            "qty": 5,
+            "price": 100000,
+            "total": 500000
+        },
+        "1": {
+            "item_id": "02024L",
+            "qty": 2,
+            "price": 150000,
+            "total": 300000
+        }
+    }
+]
